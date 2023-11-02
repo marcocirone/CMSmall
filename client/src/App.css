@@ -1,0 +1,119 @@
+.plus_button{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    border: none;
+    color: white;
+    align-content: center;
+    margin-left: 95%;
+}
+
+.open_page{
+    background-color: blue;
+    color: white;
+}
+
+.delete{
+    background-color: red;
+    color: white;
+}
+
+.edit_page{
+    background-color: green;
+    color: white;
+}
+
+.delete_button{
+    background-color: red;
+    color: white;
+}
+
+.login_button{
+    background-color: green;
+    color: white;
+}
+
+.logout_button:hover{
+    background-color: #c52e2e;
+}
+
+.login_button:hover{
+    background-color: #228d22;
+}
+
+.logout_button{
+    background-color: red;
+    color: white;
+}
+
+.error_message{
+    color: red;
+}
+
+.move_blocks{
+    background-color: blue;
+    color: white;
+}
+
+nav{
+    background: rgb(32,69,228);
+    background: linear-gradient(180deg, rgba(32,69,228,1) 0%, rgba(13,167,196,1) 0%, rgba(0,254,255,1) 66%);
+}
+
+.add_block{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    border: none;
+    color: white;
+    align-content: center;
+    margin-left: 1px;
+}
+
+.add_page{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    border: none;
+    color: white;
+    align-content: center;
+    margin-left: 95%;
+}
+
+.login_form{
+    background: rgb(32,69,228);
+    background: linear-gradient(0deg, rgba(32,69,228,1) 0%, rgba(13,167,196,1) 0%, rgba(0,254,255,1) 66%);
+}
+
+.page_info{
+    background: rgb(239,18,18);
+    background: linear-gradient(0deg, rgba(239,18,18,1) 0%, rgba(233,161,26,1) 27%, rgba(249,244,46,1) 100%);
+}
+
+.page_attribute{
+    margin: 0
+}
+
+tbody tr:hover {
+    background-color: #f2f2f2;
+}
+
+thead {
+    color: red;
+}
+
+.edit_title {
+    border: none;
+    color: black;
+}
+
+.edit_title:hover{
+    background-color: blue;
+}
+
+.manage_title {
+    border:none;
+}
